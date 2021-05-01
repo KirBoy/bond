@@ -3219,21 +3219,21 @@ body {
 .skills__item--photo::after {
   width: 95px;
   height: 74px;
-  background-image: url(../../images/skills/photo.png);
+  background-image: url(../images/skills/photo.png);
 }
 
 .skills__item--video::after {
   top: -90px;
   width: 115px;
   height: 59px;
-  background-image: url(../../images/skills/camera.png);
+  background-image: url(../images/skills/camera.png);
 }
 
 .skills__item--retouch::after {
   top: -80px;
   width: 69px;
   height: 60px;
-  background-image: url(../../images/skills/re.png);
+  background-image: url(../images/skills/re.png);
 }
 
 .skills__name {
