@@ -3088,7 +3088,7 @@ body {
   width: 27px;
   height: 11px;
   content: "";
-  background-image: url(../../images/arrow.svg);
+  background-image: url(../images/arrow.svg);
 }
 
 .slick-prev {
@@ -3405,7 +3405,7 @@ body {
 }
 
 .form__inner {
-  background-image: url(../../images/form.png);
+  background-image: url(../images/form.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right top;
